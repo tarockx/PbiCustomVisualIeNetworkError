@@ -57,6 +57,7 @@ export class Visual implements IVisual {
     }
 
     public makeCall(){
+        debugger;
         $.ajax({
             url: 'https://jsonplaceholder.typicode.com/todos/1',
             method: "GET",

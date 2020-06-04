@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"test","email":"noneofyourbusiness"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/testIeE5786BE03C7C4EFE995EFF31088608F3.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"testIe","displayName":"testIe","guid":"testIeE5786BE03C7C4EFE995EFF31088608F3","visualClassName":"Visual","version":"1.0.0","description":"PbiCustomVisualIeNetworkError","supportUrl":"https://github.com/tarockx/PbiCustomVisualIeNetworkError","gitHubUrl":"https://github.com/tarockx/PbiCustomVisualIeNetworkError"},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
